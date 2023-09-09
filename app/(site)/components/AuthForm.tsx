@@ -2,7 +2,6 @@
 
 import Button from "@/app/components/Button";
 import Input from "@/app/components/Inputs/Input";
-import clsx from "clsx";
 import { useCallback, useEffect, useState } from "react";
 import { FieldValues, SubmitHandler, useForm } from "react-hook-form";
 import AuthSocialButton from "./AuthSocialButton";
